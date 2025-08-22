@@ -16,9 +16,6 @@
         <mxCell id="HeZKjyHG_rGJUpekzMKk-5" value="REJOUER ?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HeZKjyHG_rGJUpekzMKk-6" value="HISTORIQUE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="HeZKjyHG_rGJUpekzMKk-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HeZKjyHG_rGJUpekzMKk-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="440" as="sourcePoint" />
@@ -52,12 +49,6 @@
         </mxCell>
         <mxCell id="HeZKjyHG_rGJUpekzMKk-13" value="OUI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="650" y="338" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HeZKjyHG_rGJUpekzMKk-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HeZKjyHG_rGJUpekzMKk-2" target="HeZKjyHG_rGJUpekzMKk-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="330" as="sourcePoint" />
-            <mxPoint x="374" y="330" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="HeZKjyHG_rGJUpekzMKk-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HeZKjyHG_rGJUpekzMKk-1" target="HeZKjyHG_rGJUpekzMKk-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
